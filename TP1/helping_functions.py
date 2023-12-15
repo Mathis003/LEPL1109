@@ -31,7 +31,6 @@ cmap_light = ListedColormap(['#FFAAAA', '#AAAAFF'])
 cmap_bold = ListedColormap(['#FF0000', '#0000FF'])
 
 def vis_clf(clf, X, X_train, y_train, X_test, y_test, score, n_neighbors, title="", x_label="", y_label=""):
-    
     x_min = np.amin(X, axis=0)  # minima over the columns
     x_max = np.amax(X, axis=0)  # maxima over the columns    
     
