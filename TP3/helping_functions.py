@@ -6,9 +6,6 @@ import random
 from sklearn.metrics import confusion_matrix
 
 
-
-
-
 def plot_diff_cluster(y, y_pred, data_df):
     """
         PLOT_DIFF_CLUSTER - Show the misclassification of two clusterings.
