@@ -1,3 +1,3 @@
-[submodule "LEPL1109-Hackathons"]
-	path = LEPL1109-Hackathons
+[submodule "Hackathons/LEPL1109-Hackathons"]
+	path = Hackathons/LEPL1109-Hackathons
 	url = https://github.com/Mathis003/LEPL1109-Hackathons.git
